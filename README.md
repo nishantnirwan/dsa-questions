@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nishantnirwan/dsa-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
