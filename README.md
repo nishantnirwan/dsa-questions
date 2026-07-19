@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nishantnirwan/dsa-questions/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nishantnirwan/dsa-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -34,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/nishantnirwan/dsa-questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
