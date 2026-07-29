@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Combinatorics
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
