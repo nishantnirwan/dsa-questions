@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -124,8 +126,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
