@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/nishantnirwan/dsa-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/nishantnirwan/dsa-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
