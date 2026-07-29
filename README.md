@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
