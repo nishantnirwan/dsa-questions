@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnirwan/dsa-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nishantnirwan/dsa-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1260-shift-2d-grid](https://github.com/nishantnirwan/dsa-questions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnirwan/dsa-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,9 +112,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0410-split-array-largest-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nishantnirwan/dsa-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nishantnirwan/dsa-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nishantnirwan/dsa-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Recursion
 |  |
 | ------- |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/1406-stone-game-iii) |
+## Queue
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nishantnirwan/dsa-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nishantnirwan/dsa-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
