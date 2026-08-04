@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnirwan/dsa-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nishantnirwan/dsa-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nishantnirwan/dsa-questions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2643-row-with-maximum-ones](https://github.com/nishantnirwan/dsa-questions/tree/master/2643-row-with-maximum-ones) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nishantnirwan/dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/nishantnirwan/dsa-questions/tree/master/1260-shift-2d-grid) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nishantnirwan/dsa-questions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2643-row-with-maximum-ones](https://github.com/nishantnirwan/dsa-questions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nishantnirwan/dsa-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/1406-stone-game-iii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nishantnirwan/dsa-questions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Prefix Sum
 |  |
 | ------- |
