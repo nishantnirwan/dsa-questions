@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnirwan/dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnirwan/dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/1406-stone-game-iii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nishantnirwan/dsa-questions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnirwan/dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/nishantnirwan/dsa-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnirwan/dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
