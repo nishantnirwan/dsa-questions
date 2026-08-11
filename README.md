@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nishantnirwan/dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0410-split-array-largest-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0039-combination-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
