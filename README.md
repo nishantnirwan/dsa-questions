@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nishantnirwan/dsa-questions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1089-duplicate-zeros](https://github.com/nishantnirwan/dsa-questions/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/nishantnirwan/dsa-questions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishantnirwan/dsa-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nishantnirwan/dsa-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/nishantnirwan/dsa-questions/tree/master/1089-duplicate-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnirwan/dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
