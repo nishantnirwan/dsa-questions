@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/nishantnirwan/dsa-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nishantnirwan/dsa-questions/tree/master/0074-search-a-2d-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nishantnirwan/dsa-questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/nishantnirwan/dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/nishantnirwan/dsa-questions/tree/master/1260-shift-2d-grid) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishantnirwan/dsa-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/nishantnirwan/dsa-questions/tree/master/0037-sudoku-solver) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishantnirwan/dsa-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishantnirwan/dsa-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/nishantnirwan/dsa-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/0216-combination-sum-iii) |
@@ -295,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishantnirwan/dsa-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nishantnirwan/dsa-questions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nishantnirwan/dsa-questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
