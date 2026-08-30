@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/nishantnirwan/dsa-questions/tree/master/1260-shift-2d-grid) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nishantnirwan/dsa-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nishantnirwan/dsa-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
