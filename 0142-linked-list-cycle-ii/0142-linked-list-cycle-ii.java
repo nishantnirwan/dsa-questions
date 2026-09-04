@@ -10,23 +10,6 @@
  * }
  */
 public class Solution {
-    public boolean hasCycle(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast != null) {
-            fast = fast.next;
-            if(fast != null) {
-                fast = fast.next;
-                slow = slow.next;
-            }
-            if(slow == fast) {
-            return true;
-            }
-        }
-        return false;
-    }
-
     public ListNode detectCycle(ListNode head) {
         Map<ListNode, Boolean> visited = new HashMap<>();
 
