@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishantnirwan/dsa-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/nishantnirwan/dsa-questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/nishantnirwan/dsa-questions/tree/master/0443-string-compression) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/nishantnirwan/dsa-questions/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/nishantnirwan/dsa-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
