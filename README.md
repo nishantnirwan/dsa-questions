@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nishantnirwan/dsa-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/nishantnirwan/dsa-questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/nishantnirwan/dsa-questions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -452,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nishantnirwan/dsa-questions/tree/master/0836-rectangle-overlap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
