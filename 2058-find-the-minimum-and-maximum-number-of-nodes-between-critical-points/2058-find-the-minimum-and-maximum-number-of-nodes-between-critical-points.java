@@ -10,35 +10,44 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int first = -1;
-        int prev = -1;
-        int min = Integer.MAX_VALUE;
-        int max = -1;
-        int index = 1;
 
-        ListNode a = head;
-        ListNode b = head.next;
+        if(head == null) {
+            return new int[] {-1,-1};
+        }
 
-        while(b != null && b.next != null) {
-            ListNode c = b.next;
+        ListNode prev = head;
+        ListNode curr = head.next;
 
-            if((b.val > a.val && b.val > c.val) || (b.val < a.val && b.val < c.val)) {
-                if(first == -1) {
-                    first = index;
-                }
-                else {
-                    min = Math.min(min, index - prev);
-                    max = Math.max(max, index - first);
-                }
-                prev = index;
+        int i = 1;
+        List<Integer> criticalPoints = new ArrayList<>();
+
+        while(curr != null && curr.next != null) {
+            // Compare for Local Maxima
+            if(curr.val > prev.val && curr.val > curr.next.val) {
+                criticalPoints.add(i);
             }
-            a = b;
-            b = c;
-            index++;
+            
+            // Compare for Local Minima
+            if(curr.val < prev.val && curr.val < curr.next.val) {
+                criticalPoints.add(i);
+            }
+
+            curr = curr.next;
+            prev = prev.next;
+            i++;
         }
-        if(first == -1 || prev == first) {
-            return new int[]{-1,-1};
+
+        if(criticalPoints.size() < 2) {
+            return new int[] {-1, -1};
         }
-        return new int[]{min, max};
+        // Criticall Points are ready
+        int minDist = Integer.MAX_VALUE;
+        for(i = 1; i < criticalPoints.size(); i++) {
+            minDist = Math.min(minDist, criticalPoints.get(i) - criticalPoints.get(i-1));
+        }
+
+        int maxDist = criticalPoints.get(criticalPoints.size() - 1) - criticalPoints.get(0);
+
+        return new int[] {minDist, maxDist};
     }
 }
