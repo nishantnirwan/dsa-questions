@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/nishantnirwan/dsa-questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nishantnirwan/dsa-questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/nishantnirwan/dsa-questions/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/nishantnirwan/dsa-questions/tree/master/1907-count-salary-categories) |
 ## Tree
 |  |
 | ------- |
