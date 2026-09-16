@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishantnirwan/dsa-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/nishantnirwan/dsa-questions/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/nishantnirwan/dsa-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nishantnirwan/dsa-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishantnirwan/dsa-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/nishantnirwan/dsa-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nishantnirwan/dsa-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishantnirwan/dsa-questions/tree/master/0160-intersection-of-two-linked-lists) |
