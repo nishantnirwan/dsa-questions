@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nishantnirwan/dsa-questions/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishantnirwan/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0410-split-array-largest-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/nishantnirwan/dsa-questions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishantnirwan/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/nishantnirwan/dsa-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
