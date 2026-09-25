@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/nishantnirwan/dsa-questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishantnirwan/dsa-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nishantnirwan/dsa-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1096-brace-expansion-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Greedy
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnirwan/dsa-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnirwan/dsa-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nishantnirwan/dsa-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishantnirwan/dsa-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/nishantnirwan/dsa-questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nishantnirwan/dsa-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/nishantnirwan/dsa-questions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nishantnirwan/dsa-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
@@ -407,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/nishantnirwan/dsa-questions/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
