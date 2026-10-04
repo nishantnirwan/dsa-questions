@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nishantnirwan/dsa-questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnirwan/dsa-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/nishantnirwan/dsa-questions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nishantnirwan/dsa-questions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/1096-brace-expansion-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/nishantnirwan/dsa-questions/tree/master/1260-shift-2d-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nishantnirwan/dsa-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nishantnirwan/dsa-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
