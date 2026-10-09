@@ -1,25 +1,22 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Deque<Character> st = new ArrayDeque<>();
-        
+        int open = 0;
         int count = 0;
+
         for(char ch : s.toCharArray()) {
             if(ch == '(') {
-                st.push(ch);
+                open++;
             }
             else {
-                // ch = )
-                if(st.isEmpty()) {
-                    count++;
+                if(open > 0) {
+                    open--;
                 }
                 else {
-                    // opening bracket is present in stack
-                    st.pop();
+                    count++;
                 }
             }
         }
-        int finalAns = st.size() + count;
-
+        int finalAns = count + open;
         return finalAns;
     }
 }
