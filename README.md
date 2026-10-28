@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/nishantnirwan/dsa-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/nishantnirwan/dsa-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0678-valid-parenthesis-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nishantnirwan/dsa-questions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nishantnirwan/dsa-questions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/nishantnirwan/dsa-questions/tree/master/0856-score-of-parentheses) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/nishantnirwan/dsa-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nishantnirwan/dsa-questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/nishantnirwan/dsa-questions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nishantnirwan/dsa-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
