@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishantnirwan/dsa-questions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnirwan/dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/nishantnirwan/dsa-questions/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nishantnirwan/dsa-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/nishantnirwan/dsa-questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/nishantnirwan/dsa-questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishantnirwan/dsa-questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/nishantnirwan/dsa-questions/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nishantnirwan/dsa-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/nishantnirwan/dsa-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnirwan/dsa-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nishantnirwan/dsa-questions/tree/master/0836-rectangle-overlap) |
