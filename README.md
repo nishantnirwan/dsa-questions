@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnirwan/dsa-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/nishantnirwan/dsa-questions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/nishantnirwan/dsa-questions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishantnirwan/dsa-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/nishantnirwan/dsa-questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/nishantnirwan/dsa-questions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/nishantnirwan/dsa-questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/nishantnirwan/dsa-questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantnirwan/dsa-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantnirwan/dsa-questions/tree/master/1021-remove-outermost-parentheses) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/nishantnirwan/dsa-questions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnirwan/dsa-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nishantnirwan/dsa-questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
